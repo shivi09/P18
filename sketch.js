@@ -149,7 +149,5 @@ function createSword() {
 }
 
 function deviceTurned(){
-  if(turnAxis === 'X'){
-    boy.x=boy.x+10;
-  }
+boy.x=200;
 }
